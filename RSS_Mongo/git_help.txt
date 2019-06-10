@@ -1,0 +1,11 @@
+ git config --global user.name "sachinsingh1998"
+ git config --global user.email sachins2016@gmail.com
+git clone https://github.com/sachinsingh1998/File-Handling-using-express.git
+ cd File-Handling-using-express
+ git add fhand.js
+ git status
+ git commit -m "filehandling" fhand.js //THIS
+ git push -u origin master //THIS
+
+C:\Users\hp\Desktop\sachin\node\express\ex\File-Handling-using-express
+
